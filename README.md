@@ -182,6 +182,10 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Blog for understanding ELMO and BERT: http://jalammar.github.io/illustrated-bert/
 * ULMFIT tutorial: https://www.analyticsvidhya.com/blog/2018/11/tutorial-text-classification-ulmfit-fastai-library/
 * DSSM: https://www.microsoft.com/en-us/research/project/dssm/
+* Q&A model: https://towardsdatascience.com/nlp-building-a-question-answering-model-ed0529a68c54
+* XLnet https://towardsdatascience.com/what-is-xlnet-and-why-it-outperforms-bert-8d8fce710335
+* XLNet https://github.com/zihangdai/xlnet
+* BiDAF- https://arxiv.org/abs/1611.01603
  
 #### Anomaly detection
 
